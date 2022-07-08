@@ -25,4 +25,4 @@ Welcome! 😊
 </div>
 
 
-![alenathaly GitHub stats](https://github-readme-stats.vercel.app/api?username=alenathaly)](https://github.com/alenathaly/github-readme-stats)
+![alenathaly GitHub stats](https://github-readme-stats.vercel.app/api?username=alenathaly)]
